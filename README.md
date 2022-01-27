@@ -1,3 +1,6 @@
 # atividade-encontro-remoto-versionamento
 
-alteracao 1
+alteraçao 1
+
+alteraçao 2
+
